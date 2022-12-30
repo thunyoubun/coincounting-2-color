@@ -4,4 +4,4 @@ Counting coins that have 2 colors
 
 ## Screenshot
 <br>
-![image](https://user-images.githubusercontent.com/76035505/210117785-10575c55-1d97-435d-8a99-55c3809682ee.jpg)
+![image](https://user-images.githubusercontent.com/76035505/210117837-f9ded5d4-6bfa-4e0f-9295-abde29079ba2.png)
