@@ -1,1 +1,3 @@
-"# coincounting-2-color" 
+## Counting Coins
+<br>
+Counting coins that have 2 colors
